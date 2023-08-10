@@ -1,0 +1,16 @@
+{
+    "name": "AliDashScopeSDK",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7ade0e16923fe4f4b865d7705c9fa35d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
