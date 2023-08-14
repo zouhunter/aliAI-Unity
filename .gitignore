@@ -61,3 +61,5 @@ crashlytics-build.properties
 UnityPackageManager/
 Assets/StreamingAssets/
 Assets/StreamingAssets.meta
+/Assets/Resources/apikey.txt
+/UserSettings
