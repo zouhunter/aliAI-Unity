@@ -23,6 +23,10 @@ public class TestEntryBehavirour : UIView
     [SerializeField]
     protected TestDialogItem m_DialogItem;
 
+    [SerializeField]
+    protected ScrollRect m_Scroll_View;
+
+
     private List<DialogueHistoryEntity> historys;
 
     private Stack<TestDialogItem> m_pool;
